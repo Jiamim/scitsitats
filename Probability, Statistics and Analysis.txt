@@ -1,0 +1,7 @@
+An Introduction to Statistics: An Active Learning Approach 2nd edition 2018 (4.1/7)
+Statistics The Art and Science of Learning from Data 4th edition 2016 (5.01)
+Basics of Matrix Algebra for Statistics with R 2016 (4.0/2)
+Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference 2015 (3.9/14)
+Using R for Statistics 2014 (3.8/3)
+An Introduction to Statistical Learning: with Applications in R 2013 (4.7/135)
+The Elements of Statistical Learning: Data Mining, Inference, and Prediction 2nd edition 2013 (4.1/85)
